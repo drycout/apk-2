@@ -1,0 +1,7 @@
+{
+  "name": "Djandes POS",
+  "description": "Aplikasi POS & Katalog Hantaran Djandes dengan manajemen produk, keranjang, kustomisasi box/varian, print struk thermal Bluetooth, nota gambar, dan ekspor laporan Excel/PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
